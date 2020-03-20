@@ -51,7 +51,7 @@ A curated list of amazing SceneKit tutorials, projects and resources. Feel free 
 
 - [Learn iOS 12 game development using SpriteKit, SceneKit and ARKit 2.0, 3rd Edition](https://www.amazon.com/Swift-Game-Development-development-SpriteKit/dp/1788471156) - Stephen Haney, Siddharth Shekar.
 
-## Cources
+## Courses
 
 - [The Comprehensive Guide to Scene Kit - 3D iOS Development](https://www.udemy.com/course/scene-kit) - Ibram Uppal.
 
@@ -72,6 +72,7 @@ A curated list of amazing SceneKit tutorials, projects and resources. Feel free 
 - [Dddkit](https://github.com/gsabran/DDDKit) - 360 video player for iOS written in swift - a subset of SceneKit that actually works.
 - [Arkit Portal](https://github.com/bjarnel/arkit-portal) - Simple portal demo implemented with ARKit & SceneKit, the trick is to change the rendering order and render invisible "masks" to hide what's inside.
 - [Arkit Shell Game](https://github.com/handsomecode/arkit-shell-game) - Shell Game built with ARKit & SceneKit.
+- [Euclid](https://github.com/nicklockwood/Euclid) - A Swift library for creating and manipulating 3D geometry
 
 ## Forums
 
